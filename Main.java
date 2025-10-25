@@ -1,7 +1,5 @@
 public class Main{
   public static void main(String[] args) {
-            System.out.println("Project begins");
-
+            System.out.println("Begin the Project Happile");
   }
-    
     }
